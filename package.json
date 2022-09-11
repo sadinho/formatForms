@@ -1,0 +1,30 @@
+{
+  "name": "formatforms",
+  "version": "1.0.0",
+  "description": "funções uteis para formatação de campos de formularios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadinho/formatForms.git"
+  },
+  "keywords": [
+    "brasil",
+    "formatação",
+    "campos",
+    "react",
+    "forms",
+    "moeda",
+    "cpf",
+    "cnpj",
+    "datas"
+  ],
+  "author": "Sade Ferreira Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadinho/formatForms/issues"
+  },
+  "homepage": "https://github.com/sadinho/formatForms#readme"
+}
